@@ -1,0 +1,25 @@
+body {
+  background-image: url("./images/page-background.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  font-family: "Source Sans 3", sans-serif;
+  color: rgb(230, 230, 255);
+}
+
+a {
+  color: rgb(230, 230, 255);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(118, 215, 196);
+}
+
+h1 {
+  margin-bottom: 8px;
+}
+h2 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
